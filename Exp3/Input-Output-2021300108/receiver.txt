@@ -1,0 +1,4 @@
+Identity: vchu
+Response: Registration Successful
+Decrypted Symmetric Key: tqsauhfkbogdwmjnpyilxrevzc
+Decrypted Message: Cryptography is the art of writing or solving codes. In an age where data security is paramount, mastering encryption techniques has become crucial for protecting sensitive information across digital platforms.
